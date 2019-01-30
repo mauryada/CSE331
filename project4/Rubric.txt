@@ -1,0 +1,33 @@
+Testcases 70%
+
+Testcase #2      __/5
+
+Testcase #6      __/10
+
+Hidden test cases point distribution: 
+Testcase #1      __/5 
+Testcase #3      __/5
+Testcase #4      __/15
+Testcase #5      __/15
+Testcase #7      __/15
+
+
+Time/Space Complexities   20% 
+- 2 for each required run-time constraint
+- 2 for each required memory constraint
+__str__            __/4
+enqueue            __/4
+dequeue            __/4
+get_average        __/4
+resize             __/4 
+
+
+
+Coding 10%
+Coding Standard (Docstrings/Variable names/etc)     ___/10
+
+Any unwarranted modification of Skeleton code           	TOTAL SCORE *= 90%
+Use of container type outside of permission in Spec         TOTAL SCORE *= 25%
+
+
+Total __/100
