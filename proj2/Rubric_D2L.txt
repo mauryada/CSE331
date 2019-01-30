@@ -1,0 +1,30 @@
+
+Testcases 70%
+
+Given test cases (note that no credit for test case 0) 
+Testcase #1      __/5
+- positive w/ repeating integers
+
+Testcase #3      __/5
+- signed integers
+
+Testcase #5      __/5
+- all positive repeating integers
+
+Hidden test cases point distribution: 
+Testcase #2      __/5
+Testcase #4      __/5
+Testcase #6      __/9
+Testcase #7      __/9
+Testcase #8      __/9
+Testcase #9      __/9
+Testcase #10     __/9
+
+
+
+Coding 30%
+Sorting Algorithm in O(N*log(N)) time               ___/15
+Coding Standard (Docstrings/Variable names/etc)     ___/15
+
+Any Modification of Skeleton code           	TOTAL SCORE *= 90%
+Use of container type thats not a Linked list	TOTAL SCORE *= 25%
