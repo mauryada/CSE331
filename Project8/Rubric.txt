@@ -1,0 +1,41 @@
+Project 8 Grading
+
+TESTCASES                   75 PTS
+
+Testcase 1:                 __/20
+ - Small, very connected graph (Given)
+
+Testcase 2:                 __/20
+ - Large, sparse graph (Given)
+
+Testcase 3:                 __/20
+ - Large, very connected graph
+
+
+Runtime:          __/25
+    Vertex:
+        - add_edge     O(1)                   __/1
+        - degree       O(1)                   __/1
+        - get_edge     O(vertex's edges)      __/1
+        - get_edges    O(vertex's edges)      __/1
+    Graph:
+        - find_valid_paths    O(V + E)  __/10
+        - find_shortest_path  O(V + E)  __/2
+        - find_longest_path   O(V + E)  __/2
+        - find_least_path     O(V + E)  __/2
+        - find_most_path      O(V + E)  __/2
+        - insert_edge         O(1)      __/1
+        - vertices            O(V)      __/1
+
+
+Coding Standard:            __/15
+ - (Docstrings, pre/post conditions, variable names, etc.)
+
+Deductions:
+Any Error that causes Grading Script to fail        TOTAL_SCORE = TOTAL_SCORE *.75
+Use of python containers			    TOTAL_SCORE = TOTAL_SCORE *.25
+
+
+TOTAL SCORE:    _____ / 100
+
+TA comments:
